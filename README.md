@@ -39,7 +39,7 @@ Berdasarkan tren bulanan, total revenue Adidas mengalami peningkatan pesat dari 
 
 Karena pada tahun 2021 revenue Adidas mengalami peningkatan tajam sebagai bagian dari masa pemulihan, maka analisis kinerja pada berbagai aspek akan difokuskan pada data tahun 2021 saja.
 
-#### Retailer mana yang memiliki kinerja penjualan yang kuat?
+#### Retailer mana yang memiliki kinerja penjualan terbaik?
 <img width="835" height="470" alt="image" src="https://github.com/user-attachments/assets/7040f58b-ed13-49ee-9b3a-5a38af97d393" />
 
 Berdasarkan hasil analisis, retailer dengan total revenue tertinggi pada tahun 2021 adalah Foot Locker dengan nilai sebesar $17.701.839, diikuti oleh Sports Direct sebesar $16.721.043 dan West Gear sebesar $15.230.797. Ketiga retailer ini menjadi kontributor utama revenue Adidas pada tahun tersebut. Sementara itu, Kohl’s dan Amazon berada pada kategori menengah dengan masing-masing sekitar $10.135.656 juta dan $7.769.912 juta. Adapun Walmart mencatat revenue paling rendah, yakni hanya sekitar $4.167.345 juta, sehingga kontribusinya relatif kecil dibanding retailer lainnya.
